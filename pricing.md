@@ -72,7 +72,9 @@ sections:
   section_id: ''
   title: ''
   subtitle: ''
-  actions: []
+  actions:
+  - label: Sign Up
+    url: "/signup"
 layout: pricing
 menu:
   main:

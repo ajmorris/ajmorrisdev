@@ -70,8 +70,8 @@ sections:
   component: cta_block.html
   type: ctablock
   section_id: ''
-  title: ''
-  subtitle: ''
+  title: Don't wait while the others play.
+  subtitle: Sign up today.
   actions:
   - label: Sign Up
     url: "/signup"

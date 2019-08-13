@@ -13,7 +13,7 @@ header:
       url: "/signup"
 footer:
   logo_img: https://res.cloudinary.com/ajmorris/image/upload/v1565704782/blog/Color-Logo_rgcy0z.png
-  tagline: ''
+  tagline: Copyright 2019
   has_nav: true
   nav_title: Company
   has_social: true

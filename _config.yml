@@ -23,7 +23,7 @@ footer:
   subscribe_content: Stay up to date with our latest developments.
   content: "&copy; AJ Morris. All rights reserved."
   links:
-  - text: Made with Stackbit
+  - text: Built with Static Site in Mind
     url: https://www.stackbit.com
     new_window: true
 sass:

@@ -1,10 +1,6 @@
 {
   "links": [
     {
-      "title": "Github",
-      "url": "https://github.com/ajmorris"
-    },
-    {
       "title": "Facebook",
       "url": "https://facebook.com/mrajmorris"
     },
@@ -14,14 +10,18 @@
       "url": "https://twitter.com/ajmorris"
     },
     {
-      "type": "instagram",
-      "title": "Instagram",
-      "url": "https://www.instagram.com/ajmorris"
-    },
-    {
       "type": "linkedin",
       "title": "LinkedIn",
       "url": "https://www.linkedin.com/in/ajmorris/"
+    },
+    {
+      "title": "Github",
+      "url": "https://github.com/ajmorris"
+    },
+    {
+      "type": "instagram",
+      "title": "Instagram",
+      "url": "https://www.instagram.com/ajmorris"
     }
   ]
 }

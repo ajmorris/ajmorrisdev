@@ -57,7 +57,7 @@ sections:
   create: all
   templates:
   - post
-upload_dir: ''
+upload_dir: blog
 public_path: https://res.cloudinary.com/ajmorris/image/upload
 front_matter_path: https://res.cloudinary.com/ajmorris/image/upload
 use_front_matter_path: true
